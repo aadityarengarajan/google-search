@@ -1,0 +1,9 @@
+{
+	"name" : "Google Search",
+	"description" : "Automatically opens Google Search for a list of questions fed into system",
+	"created" : "7/8/2020",
+	"completed" : "true",
+	"modules" : ["tkinter as tk", "messagebox", "urllib", "requests", "BeautifulSoup", "speech_recognition as sr", "pyttsx3", "os", "time", "tkinter as tk", "messagebox", "urllib", "requests", "BeautifulSoup", "os", "time", "webbrowser", "news"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "GO-07082020-023037"
+}
